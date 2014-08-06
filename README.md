@@ -1,7 +1,7 @@
 JHSawatzki/rpi-custom-kernel
 ==========
 
-Linux kernel release 3.12.25+ with builtin IPv6 support for the Raspberry Pi.
+Linux kernel release 3.12.25+ with custom LED driver for the Raspberry Pi.
 
 Install
 -------
